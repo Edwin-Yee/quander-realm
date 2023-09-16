@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BaseGateBehavior : MonoBehaviour
 {
-    // Test Comment - Edwin
+    // This is a test comment for Edwin's Branch
     public int x;
     public int y;
 
